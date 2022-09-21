@@ -1,4 +1,4 @@
---Boronide™ Obfuscation, v0.6.3
+--RHub Obfuscated (Obfer 0.1)
 
 local J,c,A=nil,nil,nil([[
 
