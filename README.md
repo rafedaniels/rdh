@@ -1,4 +1,5 @@
 # rdh
+## This project has been moved [here](https://github.com/RafeCheats/RHub)!
 Exploiting Hub
 
 ```lua
